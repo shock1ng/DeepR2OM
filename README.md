@@ -1,1 +1,3 @@
 - The network framework, data processing and the original data are all ready.
+-Feature extraction: The feature8to1.py file can be used to extract features from the dataset.
+-Model training: Using the model.py file as the model architecture, a relevant model can be trained with this architecture.
